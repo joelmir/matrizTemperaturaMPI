@@ -10,5 +10,4 @@ dependencias:
     python
     mpi4py
 
-para rodar:
-$ mpirun -n [numero de processos] python mpi.py
+
